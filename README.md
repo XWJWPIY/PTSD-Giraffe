@@ -11,8 +11,8 @@ git clone https://github.com/ntut-open-source-club/PTSD-Practice-Giraffe-Adventu
 - [x] Replace the image of m_giraffe with giraffe.png in Resources!,
 - [x] Make the giraffe move into the red area using the keyboard!
 - [x] Make the chest disappear when the giraffe touches it!
-- [ ] Write a program to give your bee friend an animation!
-- [ ] Write a program to open the door when your character touches it!
-- [ ] Design a program to countdown, stop animation after OK display
+- [x] Write a program to give your bee friend an animation!
+- [x] Write a program to open the door when your character touches it!
+- [x] Design a program to countdown, stop animation after OK display
 
 Hint:  Look for `TODO`s if you are lost.
