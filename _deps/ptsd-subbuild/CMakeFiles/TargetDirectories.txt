@@ -1,0 +1,3 @@
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate.dir
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/rebuild_cache.dir

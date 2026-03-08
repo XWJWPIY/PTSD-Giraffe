@@ -1,0 +1,14 @@
+# Target labels
+ ptsd-populate
+# Source files and their labels
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate-complete.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-build.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-configure.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-download.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-install.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-mkdir.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-patch.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-test.rule
+/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-update.rule

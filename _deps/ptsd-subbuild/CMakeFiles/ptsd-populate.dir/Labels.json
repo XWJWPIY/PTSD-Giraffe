@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/CMakeFiles/ptsd-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/LAB1223/Desktop/PTSD-Practice-Giraffe-Adventure/_deps/ptsd-subbuild/ptsd-populate-prefix/src/ptsd-populate-stamp/ptsd-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ptsd-populate"
+		],
+		"name" : "ptsd-populate"
+	}
+}
